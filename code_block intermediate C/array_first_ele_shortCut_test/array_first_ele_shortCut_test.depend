@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502235134 source:c:\ee\me\dev c++\array_first_ele_shortcut_test\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502220852 source:c:\ee\me\dev c++\pter_with_astrana_has_both_add_val_or_not\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

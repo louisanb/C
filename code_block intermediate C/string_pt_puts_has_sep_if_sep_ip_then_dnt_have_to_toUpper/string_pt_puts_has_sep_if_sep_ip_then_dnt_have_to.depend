@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502258291 source:c:\ee\me\dev c++\string_pt_puts_has_sep_if_sep_ip_then_dnt_have_to\main.c
+	<stdio.h>
+	<ctype.h>
+

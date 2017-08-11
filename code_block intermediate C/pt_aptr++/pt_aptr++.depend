@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502236954 source:c:\ee\me\dev c++\pt_aptr++\main.c
+	<stdio.h>
+	<stdlib.h>
+

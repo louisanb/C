@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502254495 source:c:\ee\me\dev c++\whole_string_access_and_manipulation\main.c
+	<stdio.h>
+	<ctype.h>
+
